@@ -49,6 +49,10 @@ body {
     box-shadow: 1px 2px 10px 1px rgba(0, 0, 0, 0.578);
 }
 
+img {
+    transition: box-shadow 1s;
+}
+
 .img {
     position: relative;
     transition: all 1s;
